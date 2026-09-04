@@ -22,4 +22,5 @@ Make the voxels 3D and allow voxels to be placed one on top of another. Add the 
 
 Expand It:
 
+How did you add onboarding so new users know how to rotate, place voxels, and change colors?
 Have text to guide the user through all the tools. Have a starter voxel in the middle of the grid.
